@@ -22,7 +22,7 @@
     "prop-types": "^15.7.2",
     "rd-redux-utils": "^1.0.4",
     "react": "^16.11.0",
-    "react-native": "^0.62.0",
+    "react-native": "^0.62.3",
     "react-native-calendars": "^1.265.0",
     "react-native-cli": "^2.0.1",
     "react-native-elements": "^1.2.7",
